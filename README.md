@@ -11,8 +11,8 @@ Wireframes for N.E.R.D mobile app
 ![Search Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Search%20bar%20button%20notes.png)
 ![Sell Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20button%20notes.png)
 ![Profile Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Profile%20button%20notes.png)
-## Product Show Page
 ![Main Page Product Select](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Main%20Page%20Product%20Select.png)
+## Product Show Page
 ![Product Show Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Product%20show%20page.png)
 ![Back Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Back%20Button%20Notes.png)
 ![Want Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Want%20Button%20Notes.png)
