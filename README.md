@@ -25,3 +25,5 @@ Wireframes for N.E.R.D mobile app
 ![New Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/New%20Buy%20Button%20Notes.png)
 ![Offer Button Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offer%20Button%20Notes.png)
 ![Product Show Page Scroll](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Product%20Show%20Page%20Scroll.png)
+## Sell Page
+![Sell Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page.png)
