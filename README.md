@@ -27,3 +27,18 @@ Wireframes for N.E.R.D mobile app
 ![Product Show Page Scroll](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Product%20Show%20Page%20Scroll.png)
 ## Sell Page
 ![Sell Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page.png)
+## Profile Page
+![Profile Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Profile%20Page.png)
+![Profile Settings Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Profile%20Settings%20Button.png)
+![Wants Tab](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Tab.png)
+![Offers Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offers%20Tab.png)
+![Owns Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Owns%20Tab.png)
+![Orders Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Orders%20Tab.png)
+## Wants Page
+![Wants Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page.png)
+![Wants Back Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Back%20Arrow.png)
+![Sort Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sort%20Button.png)
+![Wants Product Image](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Image.png)
+![Wants Buy Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Buy%20Button.png)
+![Wants Offer Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Offer%20Button.png)
+![Wants Page Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page%20Notes.png)
