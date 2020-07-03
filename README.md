@@ -36,6 +36,9 @@ Wireframes for N.E.R.D mobile app
 ![Offers Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offers%20Tab.png)
 ![Owns Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Owns%20Tab.png)
 ![Orders Tab Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Orders%20Tab.png)
+## Settings Page
+![Settings Page 1](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%201.png)
+![Settings Page 2](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%202.png)
 ## Wants Page
 ![Wants Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page.png)
 ![Wants Back Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Back%20Arrow.png)
@@ -44,8 +47,5 @@ Wireframes for N.E.R.D mobile app
 ![Wants Buy Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Buy%20Button.png)
 ![Wants Offer Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Offer%20Button.png)
 ![Wants Page Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page%20Notes.png)
-## Settings Page
-![Settings Page 1](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%201.png)
-![Settings Page 2](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%202.png)
 ## Offers Page
 ![Offers Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offers%20Page.png)
