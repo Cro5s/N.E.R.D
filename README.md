@@ -49,3 +49,5 @@ Wireframes for N.E.R.D mobile app
 ![Wants Page Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page%20Notes.png)
 ## Offers Page
 ![Offers Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offers%20Page.png)
+## Owns Page
+![Owns Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Owns%20Page.png)
