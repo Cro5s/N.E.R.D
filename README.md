@@ -45,3 +45,5 @@ Wireframes for N.E.R.D mobile app
 ## Settings Page
 ![Settings Page 1](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%201.png)
 ![Settings Page 2](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%202.png)
+## Offers Page
+![Offers Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Offers%20Page.png)
