@@ -42,3 +42,6 @@ Wireframes for N.E.R.D mobile app
 ![Wants Buy Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Buy%20Button.png)
 ![Wants Offer Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Offer%20Button.png)
 ![Wants Page Notes](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Wants%20Page%20Notes.png)
+## Settings Page
+![Settings Page 1](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%201.png)
+![Settings Page 2](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Settings%20Page%202.png)
