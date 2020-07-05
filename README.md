@@ -27,8 +27,7 @@ Wireframes for N.E.R.D mobile app
 ![Product Show Page Scroll](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Product%20Show%20Page%20Scroll.png)
 ## Sell Page
 ![Sell Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page.png)
-![Sell Page 1](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page%201.png)
-![Sell Page 2](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page%202.png)
+![Sell Page Full](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Sell%20Page%20Full.png)
 ## Profile Page
 ![Profile Page](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Profile%20Page.png)
 ![Profile Settings Button](https://github.com/Cro5s/N.E.R.D/blob/master/assets/images/Profile%20Settings%20Button.png)
